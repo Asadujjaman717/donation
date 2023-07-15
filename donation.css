@@ -1,0 +1,197 @@
+.header {
+  color: white;
+  background-image: url("/images/donation13.jpg");
+  background-repeat: no-repeat;
+  background-size: cover;
+  text-align: center;
+  padding-bottom: 200px;
+}
+.banner-title {
+  padding: 150px 50px 0px 50px;
+  font-weight: 700;
+  font-size: 95px;
+}
+.banner-description {
+  font-size: 30px;
+  
+}
+.primary-btn {
+  color: #ffffff;
+  font-weight: 700;
+  font-size: 25px;
+  background: rgb(226, 71, 79);
+  padding: 18px 35px;
+}
+main{
+  text-align: center;
+}
+/* body part */
+.donation1 {
+  text-align: center;
+}
+.donation-title {
+  padding-top: 100px;
+  font-size: 70px;
+  font-weight: 800;
+}
+.donation-description {
+  font-size: 25px;
+  padding: 0px 200px
+}
+
+
+.container{
+  font-size: 40px;
+  font-weight: 0px;
+  color: rgb(176, 177, 179);
+  display: flex;
+  justify-content: center;
+ margin-bottom: 50px;
+  
+}
+.container div{
+  padding: 20px;
+  background: rgb(255, 255, 255);
+  /* gap: 200px; */
+}
+.item2{
+  color: rgb(226, 71, 79);
+  border-radius: 5px;
+  border-style: solid;
+  border-color:rgb(226, 71, 79); 
+}
+/* .item4{
+  padding-bottom: 20px;
+  
+} */
+.donate-title{
+  padding-top: 200px;
+  font-weight: 800;
+  font-size: 70px;
+}
+.donate-description{
+  font-size: 30px;
+  /* padding-bottom: 100px; */
+}
+.container2{
+  display: flex;
+  justify-content:center;
+  margin-bottom: 100px;
+  padding: 0px 300px;
+}
+
+/* .item{
+  border: 25px;
+  color: green;
+  
+} */
+.container2 .items1{
+  border: 24px;
+  background:rgb(168, 192, 168);
+}
+.container2 .items2{
+  border: 24px;
+  background:rgb(137, 101, 106);
+}
+.container2 .items3{
+  border: 24px;
+  background:rgb(168, 86, 10);
+}
+
+.container2 div{
+  padding: 40px;
+  width: 700px;
+  height: 400px;
+  font-size: 30px;
+}
+.their-lives{
+  font-size: 30px;
+  padding: 100px 0px;
+  align-content: center;
+  display: flex;
+  justify-content: center;
+  /* flex-basis: 300px; */
+  /* flex-basis: 80%; */
+  /* width: 5000px; */
+  /* white-space: nowrap; */
+}
+.their-lives-title{
+  font-family: sans-serif;
+  font-size: 60px;
+  font-weight: 800;
+}
+.their-lives img {
+  
+  float: right;
+  border: 3px solid #ffffff;
+  border-radius: 10px;
+  margin-left: 100px;
+
+}
+/* .their-lives .primary-btn{
+  float: center;
+} */
+.they-need-us{
+  font-size: 30px;
+  padding: 100px 0px;
+  display: flex;
+  justify-content: center;
+  /* flex-basis: 300px; */
+  white-space: nowrap;
+}
+.they-need-us-title{
+  font-family: sans-serif;
+  font-size: 60px;
+  font-weight: 800;
+}
+.they-need-us img {
+  
+  float: left;
+  border: 3px solid #ffffff;
+  border-radius: 10px;
+  margin-right: 50px;
+  
+}
+/* .they-need-us .primary-btn{
+  float: right;
+} */
+.get-my-update{
+  text-align: center;
+}
+.get-my-update h2{
+  font-family: sans-serif;
+  margin-top: 100px;
+  padding-top: 50px;
+  font-size: 50px;
+  font-weight: 800;
+}
+.get-my-update p{
+  font-size: 30px;
+}
+.get-my-update form{
+  margin-right: 800px;
+  margin-left: 800px;
+  padding: 80px;
+  background-color: bisque;
+}
+footer{
+  background-color: black;
+  height: 300px;
+}
+footer h4{
+  padding-top: 100px;
+  text-align: center;
+  font-size: 40px;
+  font-style: italic;
+  color: rgb(181, 9, 58);
+}
+footer p{
+  font-size: 25px;
+  text-align: center;
+  color: aliceblue;
+}
+
+input[type='email']{
+  font-size: 40px;
+}
+/* flex-basis */
